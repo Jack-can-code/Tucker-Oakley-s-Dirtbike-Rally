@@ -1,6 +1,6 @@
 This project was created using SGDK in the Codeblocks IDE. It is designed for use on a SEGA Genesis console.
 
-HOW TO PLAY
+HOW TO PLAY -
 Use the Dpad to move your racer. When going over hills, press A to perform a trick. The more tricks you perform, the faster you go. 
 Avoid hitting tires, as they will bounce you around. The first player to complete 3 laps wins. 
 
